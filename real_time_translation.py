@@ -33,7 +33,7 @@ def translate_text(text, model, tokenizer):
         return None
 
 def main():
-    print("Welcome to the Multi-Language Translator!")
+    print("Welcome to the Real-Time-Language-Translation")
     print("Available languages:")
     for lang, code in LANGUAGE_CODES.items():
         print(f"- {lang} ({code})")
