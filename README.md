@@ -76,12 +76,3 @@ Contributions are welcome! If you'd like to enhance this project, please fork th
 * Enhancing the user interface.
 * Fixing bugs or improving documentation.
 
-# License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-# Acknowledgments
-The project utilizes the transformers library by Hugging Face and the pre-trained MarianMT models by Helsinki-NLP.
-Special thanks to the open-source community for their tools and resources.
-
-# Contact
-For questions or feedback, please open an issue on this repository or contact the maintainers directly.
